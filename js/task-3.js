@@ -1,4 +1,7 @@
-function filterArray(numbers, value)
+function filterArray(numbers, value) {
+    const numberArray = [];
+    
+}
 
 console.log(filterArray([1, 2, 3, 4, 5], 3)); // [4, 5]
 console.log(filterArray([1, 2, 3, 4, 5], 4)); // [5]
